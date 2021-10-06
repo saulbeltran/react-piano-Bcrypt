@@ -1,11 +1,7 @@
 # "Bach to Basics” 🎹
 
-
 <p align="center">
 (https://bach2basics.herokuapp.com/)
-</p>
-<p align="center">
-  (https://docs.google.com/presentation/d/1I-QFC4zUMG_RdNnN4ZCVjx-3urke5SH_w7F_j5xTA38/edit?usp=sharing)
 </p>
 
 <p align="center">
@@ -17,6 +13,7 @@
 Bach to the Basics allows users to sign up and save songs, practice scales, and compose music. This app uses bcrypt in order to allow users to have their own personal log in. Once logged in they will be able to use a react piano and practice all the major and minor scales. Noteflight API is incorporated into the Compose page and allows the user to compose music and export MIDI files and save their new songs in the database.
 
 ## Here we go
+
 Let's get Bach to the Basics! What are scales? Modes? Chords? What do they sound like? What are they good for? Why should I learn them?
 
 Bach to the Basics lets you explore the “Fun” -damentals of music in a fun and interactive way.
@@ -41,33 +38,24 @@ On the Compose page you can create your own music, and do other cool stuff.
 
 ![Saved](image.png)
 
-## Team Members
-
-* "Danielle Blaney" <https://github.com/DaniBlaney>
-* "Kevin O'Connel" <https://github.com/ko513>
-* "Jon Curto" <https://github.com/Soggytoast111>
-* "Sarah Kiel" <https://github.com/skiel14>
-
 ## Built With
 
-* React JS
-* React-piano 
-* Noteflight API
-* Nodejs
-* Mongodb/Mongoose
-* React Bootstrap - The web framework used
-* React Router Dom
-* Axios
-* Bcrypt
+- React JS
+- React-piano
+- Noteflight API
+- Nodejs
+- Mongodb/Mongoose
+- React Bootstrap - The web framework used
+- React Router Dom
+- Axios
+- Bcrypt
 
 ## Beyond our MVP
 
-* Import MIDI files to practice on the piano
-* And put more stuff here....
+- Import MIDI files to practice on the piano
+- And put more stuff here....
 
-
-----------------------------------------------------------------------------------------------------------------------------
-
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -137,4 +125,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# group7-project3
