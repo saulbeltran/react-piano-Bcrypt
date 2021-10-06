@@ -1,0 +1,25 @@
+body, html {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-color: #76525c;
+}
+
+.flight{
+  align-self: center;
+  margin-top: 25px;
+  margin-left: 150px;
+  }
+
+.output{
+  margin-left: 200px;
+}
+
+#noteFlightDiv{
+  width: 75%;
+  height: 460px;
+}
+
+.group{
+  margin-left: 150px;
+  width: 500px;
+}

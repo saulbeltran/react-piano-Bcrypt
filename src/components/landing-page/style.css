@@ -1,0 +1,105 @@
+@font-face {
+  font-family: medici-text;
+  src: url(../landing-page/fonts/medici-text.ttf) format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+.container {
+  background-color: #76525c;
+}
+
+.mainjumbo{
+  background-image: url("/images/abstract.jpg");
+  opacity: .75;
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.card {
+  background-color: transparent;
+}
+.card-horizontal {
+  flex-direction: row;
+}
+
+h1, h2, h3, h4, h5, p, label {
+  color: #eddcb0;
+}
+.bachh{
+  color:#ba8b17;
+  text-shadow: 4px 4px 8px white;
+  -webkit-text-stroke: .5px black;
+}
+.bodies{
+  /* background-color: #a3707e; */
+  box-shadow: 5px solid;
+}
+.card-title{
+  font-family: medici-text;
+  text-align: center;
+}
+.card-body{
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  width: 100%;
+}
+.card-text{
+  flex: 1 0 auto;
+}
+h1 {
+  font-family: medici-text;
+  font-size: 135px;
+  text-align: center;
+}
+.howTo{
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #eddcb0;
+}
+.bachimg{
+  margin: 15px;
+  padding: auto;
+}
+.card-body h5 {
+  font-family: medici-text;
+}
+
+.bach{
+  width: 250px;
+  outline-color: white;
+  outline: 5px;
+}
+.strip{
+  font-size: 20px;
+  text-align: center;
+}
+
+.marge{
+  margin-top: 5px;
+}
+
+#circle-of-fifths {
+  text-align: center;
+}
+
+.btns{
+  margin-left: 50px;
+}
+
+.radio-inline {
+  margin-right: 25px;
+}
+
+label.radio-inline {
+  padding-top: 5px;
+}
+
+input {
+  margin-right: 7px;
+}
+/*text animation*/
